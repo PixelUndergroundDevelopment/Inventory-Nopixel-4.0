@@ -1,10 +1,10 @@
-# Inventory-Nopixel-4.0
+![image](https://github.com/user-attachments/assets/28e872a1-18e0-465f-ad6a-1e52ada8130b)![image](https://github.com/user-attachments/assets/3bca462b-3f99-481c-a74f-40ee79fa95b2)# Inventory-Nopixel-4.0
 Inventory Nopixel 4.0 for qb-core framework
 
 # Screenshot 
-https://media.discordapp.net/attachments/1217347989975072869/1370025264246951946/FiveM_GTAProcess_2025-05-08_18-37-24.png?ex=681dfef4&is=681cad74&hm=019213b2867941da9ce75de1d94b37bce9dedf990cd31ce7ad14d8c87b49ddae&=&format=webp&quality=lossless&width=1522&height=856
+![image](https://github.com/user-attachments/assets/b942b241-3f17-42e7-9dde-cc109d4fa02d)
+![image](https://github.com/user-attachments/assets/88d0d538-15e8-4319-bed1-348bad01e1f9)
 
-https://media.discordapp.net/attachments/1217347989975072869/1370025444471996537/FiveM_GTAProcess_2025-05-08_18-37-05.png?ex=681dff1f&is=681cad9f&hm=b90fc03129c8b7dd9755f9a6e6afa9b26246d84fa3a3d334ae409cb30d5bd558&=&format=webp&quality=lossless&width=1522&height=856
 
 # Information
 ```DO NOT CHANGE THE DATA FOLDER DIRECTLY WITHOUT READING THE README FILE. THE SCRIPT WILL NOT WORK. READ THE README FILE AFTER EACH UPDATE.```
