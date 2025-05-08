@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/28e872a1-18e0-465f-ad6a-1e52ada8130b)![image](https://github.com/user-attachments/assets/3bca462b-3f99-481c-a74f-40ee79fa95b2)# Inventory-Nopixel-4.0
+# Inventory-Nopixel-4.0
 Inventory Nopixel 4.0 for qb-core framework
 
 # Screenshot 
