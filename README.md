@@ -1,5 +1,5 @@
 # Inventory-Nopixel-4.0
-Inventory Nopixel 4.0 for qb-core framework
+Inventory Nopixel 4.0 Inspired for qb-core framework
 
 # Screenshot 
 ![image](https://github.com/user-attachments/assets/b942b241-3f17-42e7-9dde-cc109d4fa02d)
